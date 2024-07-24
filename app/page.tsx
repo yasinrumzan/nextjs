@@ -98,3 +98,5 @@ export default function Home() {
           </h2>
           <p className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
             Brutus Mechanic Saboteur Booster Defender Trickster Hyperion Crisis    
+  );
+}
